@@ -8,41 +8,41 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CoreAdminLTE
 build_property.RootNamespace = CoreAdminLTE
-build_property.ProjectDir = C:\Users\line.asp\source\repos\CoreAdminLTE\CoreAdminLTE\
+build_property.ProjectDir = C:\Users\line.asp\Documents\GitHub\testapp\CoreAdminLTE\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\line.asp\source\repos\CoreAdminLTE\CoreAdminLTE
+build_property.MSBuildProjectDirectory = C:\Users\line.asp\Documents\GitHub\testapp\CoreAdminLTE
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/line.asp/source/repos/CoreAdminLTE/CoreAdminLTE/Pages/Employee.cshtml]
+[C:/Users/line.asp/Documents/GitHub/testapp/CoreAdminLTE/Pages/Employee.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/line.asp/source/repos/CoreAdminLTE/CoreAdminLTE/Pages/Error.cshtml]
+[C:/Users/line.asp/Documents/GitHub/testapp/CoreAdminLTE/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/line.asp/source/repos/CoreAdminLTE/CoreAdminLTE/Pages/Index.cshtml]
+[C:/Users/line.asp/Documents/GitHub/testapp/CoreAdminLTE/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/line.asp/source/repos/CoreAdminLTE/CoreAdminLTE/Pages/Privacy.cshtml]
+[C:/Users/line.asp/Documents/GitHub/testapp/CoreAdminLTE/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/line.asp/source/repos/CoreAdminLTE/CoreAdminLTE/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/line.asp/Documents/GitHub/testapp/CoreAdminLTE/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/line.asp/source/repos/CoreAdminLTE/CoreAdminLTE/Pages/_ViewImports.cshtml]
+[C:/Users/line.asp/Documents/GitHub/testapp/CoreAdminLTE/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/line.asp/source/repos/CoreAdminLTE/CoreAdminLTE/Pages/_ViewStart.cshtml]
+[C:/Users/line.asp/Documents/GitHub/testapp/CoreAdminLTE/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/line.asp/source/repos/CoreAdminLTE/CoreAdminLTE/Pages/Shared/_Layout.cshtml]
+[C:/Users/line.asp/Documents/GitHub/testapp/CoreAdminLTE/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-wptggfvj4f
